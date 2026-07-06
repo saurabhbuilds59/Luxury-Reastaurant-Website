@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="Luxury Restaurant Website" src="src/assets/images/hero_1783331515816.jpg" />
+ 
 </div>
 
 # Luxury Restaurant Website
